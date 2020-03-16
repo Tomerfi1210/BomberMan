@@ -1,17 +1,8 @@
 Title: Bomberman Final Project
 
-Student 1:
+Name: Tomer Fisher
 
-Name: Tomer Fisher (תומר פישר)
-
-ID:205364151
-
-Student 2:
-
-Name: Shahar Aviv (שחר אביב)
-
-ID:203489307
-
+=====================================================
 
 General Description:
 
